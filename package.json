@@ -10,7 +10,7 @@
     "expo": "^37.0.12",
     "express": "^4.17.1",
     "idb": "^4.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-cropper": "^1.2.0",
